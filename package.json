@@ -1,8 +1,8 @@
 {
     "name": "featurevisor",
     "version": "0.0.1",
-    "description": "Feature Flags for www.andredreyer.com",
-    "homepage": "https://flags.andredreyer.com/",
+    "description": "Feature Flags for www.a9ile.com",
+    "homepage": "https://flags.a9ile.com/",
     "license": "MIT",
     "author": {
         "name": "André Dreyer",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/dr3dr3/andre-featurevisor.git"
+        "url": "git://github.com/dr3dr3/demo-featurevisor.git"
     },
     "keywords": [
         "devops",
