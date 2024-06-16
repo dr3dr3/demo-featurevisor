@@ -1,0 +1,68 @@
+{
+  "features": {
+    "showLatestChange": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 0,
+          "allocation": []
+        }
+      ]
+    },
+    "showDeployHost": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 100000,
+          "allocation": []
+        },
+        {
+          "key": "2",
+          "percentage": 0,
+          "allocation": []
+        }
+      ]
+    },
+    "exampleDarkLaunch": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 0,
+          "allocation": []
+        }
+      ]
+    },
+    "exampleSSG": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 0,
+          "allocation": []
+        }
+      ]
+    },
+    "showGitHubProfile": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 100000,
+          "allocation": []
+        }
+      ]
+    },
+    "exampleProdTesting": {
+      "traffic": [
+        {
+          "key": "1",
+          "percentage": 100000,
+          "allocation": []
+        },
+        {
+          "key": "2",
+          "percentage": 0,
+          "allocation": []
+        }
+      ]
+    }
+  }
+}

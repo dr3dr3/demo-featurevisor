@@ -1,0 +1,20 @@
+description: Show GitHub Profile
+tags:
+  - build
+
+bucketBy:
+  - userId
+
+environments:
+
+  dev:
+    rules:
+      - key: "1"
+        segments: "*" # enabled for everyone 
+        percentage: 0
+
+  prod:
+    rules:
+      - key: "1"
+        segments: "*" # enabled for everyone 
+        percentage: 0
